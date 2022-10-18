@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Meta Adblock Rules
-! Description: ULTRA ADBLOCK LIST
+! Description: Mager Form uniartisan's Privacy List 
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
