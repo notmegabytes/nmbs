@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Meta AdBlock Rules
 ! Description: Mager Form uniartisan's Privacy List 
-! Total Count: 2135
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
